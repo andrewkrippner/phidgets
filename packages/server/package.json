@@ -1,0 +1,23 @@
+{
+    "name": "@phidgets/server",
+    "version": "1.0.0",
+    "description": "daq",
+    "main": "index.js",
+    "author": "Andrew Krippner",
+    "license": "UNLICENSED",
+    "private": true,
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.17.3",
+        "phidget22": "^2.10.1"
+    },
+    "prettier": {
+        "semi": false,
+        "tabWidth": 4,
+        "singleQuote": true,
+        "jsxSingleQuote": true
+    }
+}
