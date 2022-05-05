@@ -1,5 +1,5 @@
 {
-    "name": "@phidgets/server",
+    "name": "@phidgets/api",
     "version": "1.0.0",
     "description": "daq",
     "main": "index.js",
